@@ -146,4 +146,4 @@ Then explore runs, prompt versions, and latency metrics in **LangSmith** to comp
 ---
 
 ## 📄 License
-MIT (update if different).
+MIT
